@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Fifer: Daily Cricket Quiz by Bowlers Association</title>
+<meta name="description" content="5 cricket questions a day. Keep your streak, share your score on X. By Bowlers Association (@arijitrock).">
+<meta name="theme-color" content="#0b3d2e">
+<meta property="og:title" content="Fifer: Daily Cricket Quiz">
+<meta property="og:description" content="5 questions. 1 shot a day. Can you take a fifer?">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@arijitrock">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="css/style.css">
+<!-- AdSense: once approved, paste the AdSense <script async src=".../adsbygoogle.js?client=ca-pub-XXXX"> tag here. -->
+</head>
+<body>
+<header class="top">
+  <a class="brand" href="index.html"><span class="ball" aria-hidden="true"></span><span><b>Fifer</b><small>Daily Cricket Quiz · Bowlers Association</small></span></a>
+  <nav>
+    <a href="index.html" aria-current="page">Quiz</a>
+    <a href="stats.html">Records</a>
+    <button id="btnMyStats" class="linklike" type="button">My stats</button>
+  </nav>
+</header>
+
+<main id="app">
+  <section id="intro" class="card">
+    <p class="kicker" id="quizLabel">Daily quiz</p>
+    <h1>Can you take a <span class="hl">fifer</span> today?</h1>
+    <p>5 questions on Tests, ODIs, T20s, IPL and more. One attempt a day. A new quiz unlocks at midnight IST.</p>
+    <div class="streakline"><span id="streakIntro">🔥 Streak: 0</span></div>
+    <button id="btnStart" class="btn primary" type="button" disabled>Loading…</button>
+  </section>
+
+  <section id="quiz" class="card hidden" aria-live="polite">
+    <div class="progress"><span id="qNum">Q1/5</span><span id="qCat" class="chip"></span></div>
+    <div class="balls" id="ballTrack" aria-hidden="true"></div>
+    <h2 id="qText"></h2>
+    <div id="options" class="options"></div>
+    <p id="fact" class="fact hidden"></p>
+    <button id="btnNext" class="btn primary hidden" type="button">Next ball →</button>
+  </section>
+
+  <section id="result" class="card hidden">
+    <p class="kicker" id="resLabel"></p>
+    <h2 id="resTitle"></h2>
+    <div id="resGrid" class="grid"></div>
+    <p id="resMsg"></p>
+    <div class="row">
+      <button id="btnShare" class="btn x" type="button">Share on X</button>
+      <button id="btnCopy" class="btn ghost" type="button">Copy result</button>
+    </div>
+    <p class="muted small" id="nextIn"></p>
+    <div id="review" class="review"></div>
+  </section>
+
+  <!-- Monetization: AdSense-ready slot (placeholder until approved) -->
+  <aside class="ad-slot" aria-label="Advertisement">
+    <!-- Replace the placeholder with:
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-XXXXXXXXXXXX" data-ad-slot="XXXXXXXXXX" data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script> -->
+    <div class="ad-placeholder">Ad space · 320×100 / responsive</div>
+  </aside>
+
+  <section class="card pro" id="pro">
+    <p class="kicker">Coming soon</p>
+    <h2>Fifer Pro ⭐</h2>
+    <ul>
+      <li>Ad-free</li>
+      <li>Archive of every past quiz</li>
+      <li>Bonus "Super Over" round on match days</li>
+    </ul>
+    <button class="btn ghost" id="btnPro" type="button">Notify me</button>
+    <p class="muted small hidden" id="proNote">Thanks. Follow <a href="https://x.com/arijitrock" target="_blank" rel="noopener">@arijitrock</a> for the launch.</p>
+  </section>
+
+  <section class="card support">
+    <h2>Enjoying Fifer?</h2>
+    <p>Fifer is free and made by a cricket fan. Help keep the daily quiz running.</p>
+    <!-- Placeholder: replace href with a real Buy Me a Coffee / Ko-fi / UPI link -->
+    <a class="btn coffee" id="supportLink" href="#support-coming-soon">☕ Support / Buy me a coffee</a>
+  </section>
+</main>
+
+<dialog id="statsDlg">
+  <form method="dialog">
+    <h2>My stats</h2>
+    <div class="statgrid">
+      <div><b id="sPlayed">0</b><span>Played</span></div>
+      <div><b id="sAvg">0</b><span>Avg score</span></div>
+      <div><b id="sStreak">0</b><span>Streak</span></div>
+      <div><b id="sMax">0</b><span>Best streak</span></div>
+      <div><b id="sFifers">0</b><span>Fifers (5/5)</span></div>
+    </div>
+    <h3>Score distribution</h3>
+    <div id="dist" class="dist"></div>
+    <button class="btn primary" value="close">Close</button>
+  </form>
+</dialog>
+
+<footer class="foot">
+  <p>Made by <a href="https://x.com/arijitrock" target="_blank" rel="noopener">Bowlers Association (@arijitrock)</a> · <a href="stats.html">Records</a> · <a href="privacy.html">Privacy</a></p>
+  <p class="muted small">Not affiliated with the ICC, BCCI, or any league. Spotted an error? Tag @arijitrock.</p>
+</footer>
+<script src="js/common.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

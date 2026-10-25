@@ -1,0 +1,955 @@
+{
+ "version": 1,
+ "updated": "2026-10-25",
+ "questions": [
+  {
+   "id": "q001",
+   "category": "India",
+   "question": "At which stadium did India win the 2011 ODI World Cup final?",
+   "answer": "Wankhede Stadium, Mumbai",
+   "options": [
+    "Wankhede Stadium, Mumbai",
+    "Eden Gardens, Kolkata",
+    "M. Chinnaswamy Stadium, Bengaluru",
+    "Arun Jaitley Stadium, Delhi"
+   ],
+   "fact": "India beat Sri Lanka by 6 wickets at the Wankhede on 2 April 2011."
+  },
+  {
+   "id": "q002",
+   "category": "India",
+   "question": "Who captained India to the 1983 World Cup title?",
+   "answer": "Kapil Dev",
+   "options": [
+    "Kapil Dev",
+    "Sunil Gavaskar",
+    "Mohinder Amarnath",
+    "Dilip Vengsarkar"
+   ],
+   "fact": "India beat West Indies by 43 runs in the Lord's final."
+  },
+  {
+   "id": "q003",
+   "category": "India",
+   "question": "Whom did India beat in the final of the first T20 World Cup in 2007?",
+   "answer": "Pakistan",
+   "options": [
+    "Pakistan",
+    "Australia",
+    "Sri Lanka",
+    "South Africa"
+   ],
+   "fact": "India won by 5 runs at the Wanderers, Johannesburg."
+  },
+  {
+   "id": "q004",
+   "category": "India",
+   "question": "Who scored the first double century in men's ODI cricket?",
+   "answer": "Sachin Tendulkar",
+   "options": [
+    "Sachin Tendulkar",
+    "Virender Sehwag",
+    "Rohit Sharma",
+    "Saeed Anwar"
+   ],
+   "fact": "Tendulkar made 200* v South Africa at Gwalior in February 2010."
+  },
+  {
+   "id": "q005",
+   "category": "India",
+   "question": "What is the highest individual score in men's ODIs?",
+   "answer": "264 by Rohit Sharma",
+   "options": [
+    "264 by Rohit Sharma",
+    "237* by Martin Guptill",
+    "219 by Virender Sehwag",
+    "201* by Glenn Maxwell"
+   ],
+   "fact": "Rohit hit 264 v Sri Lanka at Eden Gardens in November 2014."
+  },
+  {
+   "id": "q006",
+   "category": "India",
+   "question": "Against which team did Anil Kumble take all 10 wickets in a Test innings in 1999?",
+   "answer": "Pakistan",
+   "options": [
+    "Pakistan",
+    "Australia",
+    "Sri Lanka",
+    "England"
+   ],
+   "fact": "Kumble took 10-74 at the Feroz Shah Kotla, Delhi."
+  },
+  {
+   "id": "q007",
+   "category": "India",
+   "question": "Who was the first Indian to score a Test triple century?",
+   "answer": "Virender Sehwag",
+   "options": [
+    "Virender Sehwag",
+    "Rahul Dravid",
+    "VVS Laxman",
+    "Sunil Gavaskar"
+   ],
+   "fact": "Sehwag made 309 v Pakistan at Multan in 2004."
+  },
+  {
+   "id": "q008",
+   "category": "India",
+   "question": "India were bowled out for their lowest Test total of 36 against which team?",
+   "answer": "Australia",
+   "options": [
+    "Australia",
+    "England",
+    "New Zealand",
+    "South Africa"
+   ],
+   "fact": "It happened at Adelaide in December 2020, a day-night Test."
+  },
+  {
+   "id": "q009",
+   "category": "India",
+   "question": "Who hit six sixes in an over at the 2007 T20 World Cup?",
+   "answer": "Yuvraj Singh",
+   "options": [
+    "Yuvraj Singh",
+    "MS Dhoni",
+    "Rohit Sharma",
+    "Robin Uthappa"
+   ],
+   "fact": "Yuvraj took Stuart Broad for six sixes at Durban."
+  },
+  {
+   "id": "q010",
+   "category": "India",
+   "question": "Off which bowler did MS Dhoni hit the six that won the 2011 World Cup final?",
+   "answer": "Nuwan Kulasekara",
+   "options": [
+    "Nuwan Kulasekara",
+    "Lasith Malinga",
+    "Muttiah Muralitharan",
+    "Thisara Perera"
+   ],
+   "fact": "Dhoni finished unbeaten on 91."
+  },
+  {
+   "id": "q011",
+   "category": "India",
+   "question": "Whom did India beat in the 2024 T20 World Cup final?",
+   "answer": "South Africa",
+   "options": [
+    "South Africa",
+    "England",
+    "Australia",
+    "Afghanistan"
+   ],
+   "fact": "India won by 7 runs at Kensington Oval, Barbados."
+  },
+  {
+   "id": "q012",
+   "category": "India",
+   "question": "Whom did India beat in the 2025 Champions Trophy final in Dubai?",
+   "answer": "New Zealand",
+   "options": [
+    "New Zealand",
+    "Australia",
+    "Pakistan",
+    "South Africa"
+   ],
+   "fact": "India won by 4 wickets on 9 March 2025."
+  },
+  {
+   "id": "q013",
+   "category": "India",
+   "question": "Who was the first batter to reach 10,000 Test runs?",
+   "answer": "Sunil Gavaskar",
+   "options": [
+    "Sunil Gavaskar",
+    "Allan Border",
+    "Sachin Tendulkar",
+    "Geoffrey Boycott"
+   ],
+   "fact": "Gavaskar got there in 1987 against Pakistan in Ahmedabad."
+  },
+  {
+   "id": "q014",
+   "category": "India",
+   "question": "Who took India's first Test hat-trick?",
+   "answer": "Harbhajan Singh",
+   "options": [
+    "Harbhajan Singh",
+    "Kapil Dev",
+    "Irfan Pathan",
+    "Anil Kumble"
+   ],
+   "fact": "Harbhajan did it v Australia at Eden Gardens in 2001."
+  },
+  {
+   "id": "q015",
+   "category": "India",
+   "question": "What was VVS Laxman's score in the famous 2001 Kolkata Test against Australia?",
+   "answer": "281",
+   "options": [
+    "281",
+    "236",
+    "270",
+    "259"
+   ],
+   "fact": "India followed on and still won by 171 runs."
+  },
+  {
+   "id": "q016",
+   "category": "India",
+   "question": "What is the highest Test score by an Indian batter?",
+   "answer": "319 by Virender Sehwag",
+   "options": [
+    "319 by Virender Sehwag",
+    "303* by Karun Nair",
+    "309 by Virender Sehwag",
+    "270 by Rahul Dravid"
+   ],
+   "fact": "Sehwag made 319 v South Africa at Chennai in 2008."
+  },
+  {
+   "id": "q017",
+   "category": "India",
+   "question": "How many Test wickets did R Ashwin finish with when he retired in December 2024?",
+   "answer": "537",
+   "options": [
+    "537",
+    "519",
+    "563",
+    "604"
+   ],
+   "fact": "Only Anil Kumble (619) has more Test wickets for India."
+  },
+  {
+   "id": "q018",
+   "category": "India",
+   "question": "What is Virat Kohli's highest Test score?",
+   "answer": "254*",
+   "options": [
+    "254*",
+    "243",
+    "235",
+    "211"
+   ],
+   "fact": "He made 254* v South Africa at Pune in 2019."
+  },
+  {
+   "id": "q019",
+   "category": "England",
+   "question": "How was the tied 2019 World Cup final at Lord's decided in England's favour?",
+   "answer": "Boundary count after a tied Super Over",
+   "options": [
+    "Boundary count after a tied Super Over",
+    "Bowl-out",
+    "Fewer wickets lost",
+    "Coin toss"
+   ],
+   "fact": "England and New Zealand tied both the match and the Super Over."
+  },
+  {
+   "id": "q020",
+   "category": "England",
+   "question": "Ben Stokes' unbeaten 135 to win an Ashes Test in 2019 came at which ground?",
+   "answer": "Headingley",
+   "options": [
+    "Headingley",
+    "Lord's",
+    "The Oval",
+    "Edgbaston"
+   ],
+   "fact": "England chased 359 with one wicket left."
+  },
+  {
+   "id": "q021",
+   "category": "England",
+   "question": "Who became the first fast bowler to take 700 Test wickets?",
+   "answer": "James Anderson",
+   "options": [
+    "James Anderson",
+    "Stuart Broad",
+    "Glenn McGrath",
+    "Courtney Walsh"
+   ],
+   "fact": "Anderson reached 700 v India at Dharamsala in March 2024."
+  },
+  {
+   "id": "q022",
+   "category": "England",
+   "question": "Stuart Broad's famous 8-15 against Australia in 2015 came at which ground?",
+   "answer": "Trent Bridge",
+   "options": [
+    "Trent Bridge",
+    "Lord's",
+    "Old Trafford",
+    "Headingley"
+   ],
+   "fact": "Australia were bowled out for 60 on the first morning."
+  },
+  {
+   "id": "q023",
+   "category": "England",
+   "question": "What is Alastair Cook's highest Test score?",
+   "answer": "294",
+   "options": [
+    "294",
+    "263",
+    "244",
+    "235*"
+   ],
+   "fact": "He made 294 v India at Edgbaston in 2011."
+  },
+  {
+   "id": "q024",
+   "category": "England",
+   "question": "Jim Laker took how many wickets in one Test against Australia in 1956?",
+   "answer": "19",
+   "options": [
+    "19",
+    "17",
+    "18",
+    "16"
+   ],
+   "fact": "His 19-90 at Old Trafford is still the Test record."
+  },
+  {
+   "id": "q025",
+   "category": "England",
+   "question": "In which years did England win the men's T20 World Cup?",
+   "answer": "2010 and 2022",
+   "options": [
+    "2010 and 2022",
+    "2010 and 2016",
+    "2016 and 2022",
+    "2014 and 2022"
+   ],
+   "fact": "They beat Australia in 2010 and Pakistan in 2022."
+  },
+  {
+   "id": "q026",
+   "category": "England",
+   "question": "Which coach is most associated with England's 'Bazball' Test approach?",
+   "answer": "Brendon McCullum",
+   "options": [
+    "Brendon McCullum",
+    "Chris Silverwood",
+    "Trevor Bayliss",
+    "Andy Flower"
+   ],
+   "fact": "McCullum became England's Test coach in 2022 alongside captain Ben Stokes."
+  },
+  {
+   "id": "q027",
+   "category": "England",
+   "question": "What is Joe Root's highest Test score?",
+   "answer": "262",
+   "options": [
+    "262",
+    "254",
+    "228",
+    "218"
+   ],
+   "fact": "Root made 262 v Pakistan at Multan in 2024."
+  },
+  {
+   "id": "q028",
+   "category": "Australia",
+   "question": "What was Sir Don Bradman's career Test batting average?",
+   "answer": "99.94",
+   "options": [
+    "99.94",
+    "100.00",
+    "98.94",
+    "99.96"
+   ],
+   "fact": "He needed only 4 runs in his last innings to average 100, but was out for a duck."
+  },
+  {
+   "id": "q029",
+   "category": "Australia",
+   "question": "How many men's ODI World Cups had Australia won after 2023?",
+   "answer": "6",
+   "options": [
+    "6",
+    "5",
+    "4",
+    "7"
+   ],
+   "fact": "1987, 1999, 2003, 2007, 2015 and 2023."
+  },
+  {
+   "id": "q030",
+   "category": "Australia",
+   "question": "Who scored 137 to win the 2023 World Cup final for Australia?",
+   "answer": "Travis Head",
+   "options": [
+    "Travis Head",
+    "David Warner",
+    "Marnus Labuschagne",
+    "Mitchell Marsh"
+   ],
+   "fact": "Australia beat India by 6 wickets in Ahmedabad."
+  },
+  {
+   "id": "q031",
+   "category": "Australia",
+   "question": "Shane Warne's 'Ball of the Century' in 1993 dismissed which batter?",
+   "answer": "Mike Gatting",
+   "options": [
+    "Mike Gatting",
+    "Graham Gooch",
+    "Mike Atherton",
+    "Robin Smith"
+   ],
+   "fact": "It was Warne's first ball in an Ashes Test, at Old Trafford."
+  },
+  {
+   "id": "q032",
+   "category": "Australia",
+   "question": "Matthew Hayden scored 380 in 2003 against which team?",
+   "answer": "Zimbabwe",
+   "options": [
+    "Zimbabwe",
+    "England",
+    "India",
+    "Pakistan"
+   ],
+   "fact": "He made it at Perth, briefly holding the Test record."
+  },
+  {
+   "id": "q033",
+   "category": "Australia",
+   "question": "Glenn Maxwell's 201* at the 2023 World Cup came against which team?",
+   "answer": "Afghanistan",
+   "options": [
+    "Afghanistan",
+    "Netherlands",
+    "Bangladesh",
+    "Sri Lanka"
+   ],
+   "fact": "He batted with cramp after Australia slid to 91/7 at the Wankhede."
+  },
+  {
+   "id": "q034",
+   "category": "Australia",
+   "question": "How many Test wickets did Glenn McGrath take?",
+   "answer": "563",
+   "options": [
+    "563",
+    "519",
+    "604",
+    "708"
+   ],
+   "fact": "He is the leading Test wicket-taker among Australian fast bowlers."
+  },
+  {
+   "id": "q035",
+   "category": "Australia",
+   "question": "Who captained Australia to the 2003 and 2007 World Cup titles?",
+   "answer": "Ricky Ponting",
+   "options": [
+    "Ricky Ponting",
+    "Steve Waugh",
+    "Adam Gilchrist",
+    "Michael Clarke"
+   ],
+   "fact": "Ponting scored 140* in the 2003 final against India."
+  },
+  {
+   "id": "q036",
+   "category": "Australia",
+   "question": "Who scored 149 in the 2007 World Cup final against Sri Lanka?",
+   "answer": "Adam Gilchrist",
+   "options": [
+    "Adam Gilchrist",
+    "Matthew Hayden",
+    "Ricky Ponting",
+    "Andrew Symonds"
+   ],
+   "fact": "He batted with a squash ball in his glove at Kensington Oval."
+  },
+  {
+   "id": "q037",
+   "category": "South Africa",
+   "question": "Who was the first batter to hit six sixes in an over in an international match?",
+   "answer": "Herschelle Gibbs",
+   "options": [
+    "Herschelle Gibbs",
+    "Yuvraj Singh",
+    "Kieron Pollard",
+    "Ravi Shastri"
+   ],
+   "fact": "Gibbs did it v Netherlands at the 2007 World Cup."
+  },
+  {
+   "id": "q038",
+   "category": "South Africa",
+   "question": "AB de Villiers' fastest ODI hundred came off how many balls?",
+   "answer": "31",
+   "options": [
+    "31",
+    "36",
+    "35",
+    "40"
+   ],
+   "fact": "He did it v West Indies at Johannesburg in January 2015."
+  },
+  {
+   "id": "q039",
+   "category": "South Africa",
+   "question": "Whom did South Africa beat in the 2025 World Test Championship final at Lord's?",
+   "answer": "Australia",
+   "options": [
+    "Australia",
+    "India",
+    "England",
+    "New Zealand"
+   ],
+   "fact": "Aiden Markram's century set up the win."
+  },
+  {
+   "id": "q040",
+   "category": "South Africa",
+   "question": "In the famous '438 game' in 2006, South Africa chased down which team's 434?",
+   "answer": "Australia",
+   "options": [
+    "Australia",
+    "England",
+    "India",
+    "Pakistan"
+   ],
+   "fact": "South Africa won by one wicket at the Wanderers."
+  },
+  {
+   "id": "q041",
+   "category": "South Africa",
+   "question": "How many Test wickets did Dale Steyn take?",
+   "answer": "439",
+   "options": [
+    "439",
+    "421",
+    "390",
+    "434"
+   ],
+   "fact": "That is the most Test wickets by a South African."
+  },
+  {
+   "id": "q042",
+   "category": "South Africa",
+   "question": "Who declared on 367* in 2025 rather than chase Brian Lara's 400*?",
+   "answer": "Wiaan Mulder",
+   "options": [
+    "Wiaan Mulder",
+    "Aiden Markram",
+    "Temba Bavuma",
+    "Tristan Stubbs"
+   ],
+   "fact": "Mulder did it v Zimbabwe at Bulawayo, the highest Test score by a South African."
+  },
+  {
+   "id": "q043",
+   "category": "South Africa",
+   "question": "Which South African was run out to end the tied 1999 World Cup semi-final against Australia?",
+   "answer": "Allan Donald",
+   "options": [
+    "Allan Donald",
+    "Lance Klusener",
+    "Shaun Pollock",
+    "Jacques Kallis"
+   ],
+   "fact": "Australia went through to the final because of a better Super Six finish."
+  },
+  {
+   "id": "q044",
+   "category": "South Africa",
+   "question": "How many Test runs did Jacques Kallis score?",
+   "answer": "13,289",
+   "options": [
+    "13,289",
+    "12,400",
+    "13,378",
+    "11,953"
+   ],
+   "fact": "He also took 292 Test wickets."
+  },
+  {
+   "id": "q045",
+   "category": "Pakistan",
+   "question": "Who captained Pakistan to the 1992 World Cup title?",
+   "answer": "Imran Khan",
+   "options": [
+    "Imran Khan",
+    "Javed Miandad",
+    "Wasim Akram",
+    "Inzamam-ul-Haq"
+   ],
+   "fact": "Pakistan beat England in the final at the MCG."
+  },
+  {
+   "id": "q046",
+   "category": "Pakistan",
+   "question": "Whom did Pakistan beat in the 2009 T20 World Cup final at Lord's?",
+   "answer": "Sri Lanka",
+   "options": [
+    "Sri Lanka",
+    "India",
+    "South Africa",
+    "England"
+   ],
+   "fact": "Shahid Afridi made 54* in the chase."
+  },
+  {
+   "id": "q047",
+   "category": "Pakistan",
+   "question": "Who scored a century for Pakistan in the 2017 Champions Trophy final against India?",
+   "answer": "Fakhar Zaman",
+   "options": [
+    "Fakhar Zaman",
+    "Azhar Ali",
+    "Babar Azam",
+    "Mohammad Hafeez"
+   ],
+   "fact": "Pakistan won by 180 runs at The Oval."
+  },
+  {
+   "id": "q048",
+   "category": "Pakistan",
+   "question": "Who was the first bowler to take 500 ODI wickets?",
+   "answer": "Wasim Akram",
+   "options": [
+    "Wasim Akram",
+    "Muttiah Muralitharan",
+    "Waqar Younis",
+    "Glenn McGrath"
+   ],
+   "fact": "Akram finished with 502 ODI wickets."
+  },
+  {
+   "id": "q049",
+   "category": "Pakistan",
+   "question": "Who bowled the first officially recorded 100 mph (161.3 km/h) delivery?",
+   "answer": "Shoaib Akhtar",
+   "options": [
+    "Shoaib Akhtar",
+    "Brett Lee",
+    "Shaun Tait",
+    "Waqar Younis"
+   ],
+   "fact": "He did it against England at the 2003 World Cup."
+  },
+  {
+   "id": "q050",
+   "category": "Pakistan",
+   "question": "Javed Miandad's last-ball six in Sharjah in 1986 came off which bowler?",
+   "answer": "Chetan Sharma",
+   "options": [
+    "Chetan Sharma",
+    "Kapil Dev",
+    "Manoj Prabhakar",
+    "Ravi Shastri"
+   ],
+   "fact": "It won the Austral-Asia Cup final against India."
+  },
+  {
+   "id": "q051",
+   "category": "Pakistan",
+   "question": "Hanif Mohammad made 337 in 1958 against which team?",
+   "answer": "West Indies",
+   "options": [
+    "West Indies",
+    "India",
+    "England",
+    "Australia"
+   ],
+   "fact": "He batted for about 970 minutes at Bridgetown to save the Test."
+  },
+  {
+   "id": "q052",
+   "category": "Pakistan",
+   "question": "Who was the first Pakistan batter to score 10,000 Test runs?",
+   "answer": "Younis Khan",
+   "options": [
+    "Younis Khan",
+    "Javed Miandad",
+    "Inzamam-ul-Haq",
+    "Mohammad Yousuf"
+   ],
+   "fact": "Younis finished with 10,099 Test runs."
+  },
+  {
+   "id": "q053",
+   "category": "IPL",
+   "question": "Who won the first IPL season in 2008?",
+   "answer": "Rajasthan Royals",
+   "options": [
+    "Rajasthan Royals",
+    "Chennai Super Kings",
+    "Deccan Chargers",
+    "Kolkata Knight Riders"
+   ],
+   "fact": "Shane Warne captained RR to the title."
+  },
+  {
+   "id": "q054",
+   "category": "IPL",
+   "question": "Who scored 158* in the first-ever IPL match in 2008?",
+   "answer": "Brendon McCullum",
+   "options": [
+    "Brendon McCullum",
+    "Sanath Jayasuriya",
+    "Adam Gilchrist",
+    "Chris Gayle"
+   ],
+   "fact": "He batted for KKR against RCB in Bengaluru."
+  },
+  {
+   "id": "q055",
+   "category": "IPL",
+   "question": "Chris Gayle's IPL-record 175* in 2013 came against which team?",
+   "answer": "Pune Warriors India",
+   "options": [
+    "Pune Warriors India",
+    "Kings XI Punjab",
+    "Delhi Daredevils",
+    "Mumbai Indians"
+   ],
+   "fact": "He took 66 balls, playing for RCB."
+  },
+  {
+   "id": "q056",
+   "category": "IPL",
+   "question": "In which season did Royal Challengers Bengaluru win their first IPL title?",
+   "answer": "2025",
+   "options": [
+    "2025",
+    "2016",
+    "2009",
+    "2024"
+   ],
+   "fact": "RCB beat Punjab Kings in the final at Ahmedabad."
+  },
+  {
+   "id": "q057",
+   "category": "IPL",
+   "question": "In which year did Mumbai Indians win their first IPL title?",
+   "answer": "2013",
+   "options": [
+    "2013",
+    "2010",
+    "2015",
+    "2017"
+   ],
+   "fact": "They beat Chennai Super Kings in the final at Eden Gardens."
+  },
+  {
+   "id": "q058",
+   "category": "IPL",
+   "question": "Who hit the last-ball boundary to win the 2023 IPL final for CSK?",
+   "answer": "Ravindra Jadeja",
+   "options": [
+    "Ravindra Jadeja",
+    "MS Dhoni",
+    "Shivam Dube",
+    "Ambati Rayudu"
+   ],
+   "fact": "Jadeja hit a six and a four off the last two balls against Gujarat Titans."
+  },
+  {
+   "id": "q059",
+   "category": "IPL",
+   "question": "Which team won IPL 2024?",
+   "answer": "Kolkata Knight Riders",
+   "options": [
+    "Kolkata Knight Riders",
+    "Sunrisers Hyderabad",
+    "Rajasthan Royals",
+    "Royal Challengers Bengaluru"
+   ],
+   "fact": "KKR beat SRH in the final at Chennai."
+  },
+  {
+   "id": "q060",
+   "category": "IPL",
+   "question": "Which team won the IPL in its debut season in 2022?",
+   "answer": "Gujarat Titans",
+   "options": [
+    "Gujarat Titans",
+    "Lucknow Super Giants",
+    "Rajasthan Royals",
+    "Punjab Kings"
+   ],
+   "fact": "Hardik Pandya captained them to the title."
+  },
+  {
+   "id": "q061",
+   "category": "IPL",
+   "question": "The 2009 IPL, won by Deccan Chargers, was held in which country?",
+   "answer": "South Africa",
+   "options": [
+    "South Africa",
+    "UAE",
+    "India",
+    "England"
+   ],
+   "fact": "It was moved because of India's general election."
+  },
+  {
+   "id": "q062",
+   "category": "IPL",
+   "question": "What is the IPL Purple Cap awarded for?",
+   "answer": "Most wickets in a season",
+   "options": [
+    "Most wickets in a season",
+    "Most runs in a season",
+    "Best economy rate",
+    "Most catches"
+   ],
+   "fact": "The Orange Cap goes to the season's top run-scorer."
+  },
+  {
+   "id": "q063",
+   "category": "T20 Leagues",
+   "question": "Which franchise won the first Pakistan Super League in 2016?",
+   "answer": "Islamabad United",
+   "options": [
+    "Islamabad United",
+    "Peshawar Zalmi",
+    "Quetta Gladiators",
+    "Karachi Kings"
+   ],
+   "fact": "They beat Quetta Gladiators in the final in Dubai."
+  },
+  {
+   "id": "q064",
+   "category": "T20 Leagues",
+   "question": "Who won the first two SA20 titles, in 2023 and 2024?",
+   "answer": "Sunrisers Eastern Cape",
+   "options": [
+    "Sunrisers Eastern Cape",
+    "MI Cape Town",
+    "Paarl Royals",
+    "Joburg Super Kings"
+   ],
+   "fact": "MI Cape Town won the third edition in 2025."
+  },
+  {
+   "id": "q065",
+   "category": "T20 Leagues",
+   "question": "How many balls does each side face in a match of The Hundred?",
+   "answer": "100",
+   "options": [
+    "100",
+    "120",
+    "90",
+    "96"
+   ],
+   "fact": "The tournament began in England in 2021."
+  },
+  {
+   "id": "q066",
+   "category": "T20 Leagues",
+   "question": "Which team won the first Major League Cricket season in the USA in 2023?",
+   "answer": "MI New York",
+   "options": [
+    "MI New York",
+    "Texas Super Kings",
+    "Seattle Orcas",
+    "San Francisco Unicorns"
+   ],
+   "fact": "Nicholas Pooran made an unbeaten 137 in the final."
+  },
+  {
+   "id": "q067",
+   "category": "T20 Leagues",
+   "question": "The Big Bash League is played in which country?",
+   "answer": "Australia",
+   "options": [
+    "Australia",
+    "New Zealand",
+    "South Africa",
+    "England"
+   ],
+   "fact": "The men's BBL began in the 2011-12 season."
+  },
+  {
+   "id": "q068",
+   "category": "T20 Leagues",
+   "question": "The ILT20 franchise league is played in which country?",
+   "answer": "United Arab Emirates",
+   "options": [
+    "United Arab Emirates",
+    "Qatar",
+    "Oman",
+    "Saudi Arabia"
+   ],
+   "fact": "Gulf Giants won the first season in 2023."
+  },
+  {
+   "id": "q069",
+   "category": "T20 Leagues",
+   "question": "In which year was the Caribbean Premier League (CPL) first played?",
+   "answer": "2013",
+   "options": [
+    "2013",
+    "2010",
+    "2015",
+    "2008"
+   ],
+   "fact": "Jamaica Tallawahs won the first CPL."
+  },
+  {
+   "id": "q070",
+   "category": "General",
+   "question": "Brian Lara made the highest Test score, 400*, against which team?",
+   "answer": "England",
+   "options": [
+    "England",
+    "Australia",
+    "India",
+    "South Africa"
+   ],
+   "fact": "He did it at Antigua in 2004."
+  },
+  {
+   "id": "q071",
+   "category": "General",
+   "question": "What is the highest first-class score, made by Brian Lara in 1994?",
+   "answer": "501*",
+   "options": [
+    "501*",
+    "499",
+    "452*",
+    "424"
+   ],
+   "fact": "He scored it for Warwickshire against Durham at Edgbaston."
+  },
+  {
+   "id": "q072",
+   "category": "General",
+   "question": "How long is a cricket pitch between the stumps?",
+   "answer": "22 yards",
+   "options": [
+    "22 yards",
+    "20 yards",
+    "24 yards",
+    "25 yards"
+   ],
+   "fact": "That is about 20.12 metres."
+  },
+  {
+   "id": "q073",
+   "category": "General",
+   "question": "Who was Muttiah Muralitharan's 800th and final Test wicket?",
+   "answer": "Pragyan Ojha",
+   "options": [
+    "Pragyan Ojha",
+    "Ishant Sharma",
+    "Harbhajan Singh",
+    "Zaheer Khan"
+   ],
+   "fact": "He took it in his final Test, against India at Galle in 2010."
+  }
+ ]
+}

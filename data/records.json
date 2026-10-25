@@ -1,0 +1,283 @@
+{
+ "asOf": "25 October 2026",
+ "source": "Association of Cricket Statisticians and Historians (stats.acscricket.com), checked 25 Oct 2026. Totals match ESPNcricinfo conventions (they include ICC World XI / Asia XI matches).",
+ "tables": [
+  {
+   "title": "Most Test runs",
+   "unit": "Runs",
+   "rows": [
+    [
+     "Sachin Tendulkar",
+     "IND",
+     200,
+     15921
+    ],
+    [
+     "Joe Root*",
+     "ENG",
+     169,
+     14278
+    ],
+    [
+     "Ricky Ponting",
+     "AUS",
+     168,
+     13378
+    ],
+    [
+     "Jacques Kallis",
+     "SA",
+     166,
+     13289
+    ],
+    [
+     "Rahul Dravid",
+     "IND",
+     164,
+     13288
+    ],
+    [
+     "Alastair Cook",
+     "ENG",
+     161,
+     12472
+    ],
+    [
+     "Kumar Sangakkara",
+     "SL",
+     134,
+     12400
+    ],
+    [
+     "Brian Lara",
+     "WI",
+     131,
+     11953
+    ]
+   ]
+  },
+  {
+   "title": "Most Test wickets",
+   "unit": "Wkts",
+   "rows": [
+    [
+     "Muttiah Muralitharan",
+     "SL",
+     null,
+     800
+    ],
+    [
+     "Shane Warne",
+     "AUS",
+     null,
+     708
+    ],
+    [
+     "James Anderson",
+     "ENG",
+     null,
+     704
+    ],
+    [
+     "Anil Kumble",
+     "IND",
+     null,
+     619
+    ],
+    [
+     "Stuart Broad",
+     "ENG",
+     null,
+     604
+    ],
+    [
+     "Nathan Lyon*",
+     "AUS",
+     null,
+     573
+    ],
+    [
+     "Glenn McGrath",
+     "AUS",
+     null,
+     563
+    ],
+    [
+     "R Ashwin",
+     "IND",
+     null,
+     537
+    ]
+   ],
+   "showMatches": false
+  },
+  {
+   "title": "Most ODI runs",
+   "unit": "Runs",
+   "rows": [
+    [
+     "Sachin Tendulkar",
+     "IND",
+     463,
+     18426
+    ],
+    [
+     "Virat Kohli*",
+     "IND",
+     317,
+     15109
+    ],
+    [
+     "Kumar Sangakkara",
+     "SL",
+     404,
+     14234
+    ],
+    [
+     "Ricky Ponting",
+     "AUS",
+     375,
+     13704
+    ],
+    [
+     "Sanath Jayasuriya",
+     "SL",
+     445,
+     13430
+    ],
+    [
+     "Mahela Jayawardene",
+     "SL",
+     448,
+     12650
+    ],
+    [
+     "Rohit Sharma*",
+     "IND",
+     291,
+     12120
+    ],
+    [
+     "Inzamam-ul-Haq",
+     "PAK",
+     378,
+     11739
+    ]
+   ]
+  },
+  {
+   "title": "Most ODI hundreds",
+   "unit": "100s",
+   "rows": [
+    [
+     "Virat Kohli*",
+     "IND",
+     317,
+     55
+    ],
+    [
+     "Sachin Tendulkar",
+     "IND",
+     463,
+     49
+    ],
+    [
+     "Rohit Sharma*",
+     "IND",
+     291,
+     35
+    ],
+    [
+     "Ricky Ponting",
+     "AUS",
+     375,
+     30
+    ],
+    [
+     "Sanath Jayasuriya",
+     "SL",
+     445,
+     28
+    ],
+    [
+     "Hashim Amla",
+     "SA",
+     181,
+     27
+    ],
+    [
+     "AB de Villiers",
+     "SA",
+     228,
+     25
+    ],
+    [
+     "Chris Gayle",
+     "WI",
+     301,
+     25
+    ],
+    [
+     "Kumar Sangakkara",
+     "SL",
+     404,
+     25
+    ]
+   ]
+  },
+  {
+   "title": "Most ODI wickets",
+   "unit": "Wkts",
+   "rows": [
+    [
+     "Muttiah Muralitharan",
+     "SL",
+     null,
+     534
+    ],
+    [
+     "Wasim Akram",
+     "PAK",
+     null,
+     502
+    ],
+    [
+     "Waqar Younis",
+     "PAK",
+     null,
+     416
+    ],
+    [
+     "Chaminda Vaas",
+     "SL",
+     null,
+     400
+    ],
+    [
+     "Shahid Afridi",
+     "PAK",
+     null,
+     395
+    ],
+    [
+     "Shaun Pollock",
+     "SA",
+     null,
+     393
+    ],
+    [
+     "Glenn McGrath",
+     "AUS",
+     null,
+     381
+    ],
+    [
+     "Brett Lee",
+     "AUS",
+     null,
+     380
+    ]
+   ]
+  }
+ ]
+}
